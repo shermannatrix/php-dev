@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d5a0661-3ee8-442c-8a91-f0986fb313c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php-dev.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/verify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch01/button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch01/fonts/Dalgona.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch01/graphic_example.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch02/Person.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch02/array_basics.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch02/assignments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch02/casting_array.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch02/for_loop.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch02/func_params.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch02/global_vars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch02/globals_array.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch02/statements.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch02/static_vars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch02/try_catch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch02/while_loop.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch03/arg_counter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch03/doubler_func.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch03/inner_func.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch03/missing_params.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch03/param_ref.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch03/strcat_func.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpledb/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpledb/header-for-template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpledb/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpledb/info-col.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpledb/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpledb/mysqli_connect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpledb/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpledb/process-register-page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpledb/register-page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpledb/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/bootstrap.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="DONT_SYNCHRONIZE">
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="bd9c930f-5172-49ac-9293-0f85826fa83e" name="Localhost" />
+    </servers>
+  </component>
+  <component name="ProjectId" id="1iAWQD5YUuul78M6VC6aJhTdOxU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/prog_php/ch01/fonts" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.php.frameworks" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\inetpub\wwwroot\php-dev\prog_php\ch01\fonts" />
+      <recent name="C:\inetpub\wwwroot\php-dev\prog_php\ch01" />
+      <recent name="C:\inetpub\wwwroot\php-dev\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run current File" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Localhost" start_url="/php-dev/prog_php/ch03/arg_counter.php">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Localhost" start_url="/php-dev/prog_php/ch02/">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d5a0661-3ee8-442c-8a91-f0986fb313c7" name="Default Changelist" comment="" />
+      <created>1601350859837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601350859837</updated>
+      <workItem from="1601350861185" duration="4044000" />
+      <workItem from="1601388698084" duration="3302000" />
+      <workItem from="1601506998198" duration="2412000" />
+      <workItem from="1601509445596" duration="3120000" />
+      <workItem from="1601643166241" duration="1883000" />
+      <workItem from="1601645913596" duration="8529000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="547" y="137" key="#CLI_Interpreters" timestamp="1601509074208">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="547" y="137" key="#CLI_Interpreters/0.0.2560.1440@0.0.2560.1440" timestamp="1601509074208" />
+    <state x="816" y="0" width="1536" height="1308" key="#PHP" timestamp="1601353785526">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="816" y="0" width="1536" height="1308" key="#PHP/0.0.2560.1440@0.0.2560.1440" timestamp="1601353785526" />
+    <state x="239" y="457" key="#SQL_Dialects" timestamp="1601507117170">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="239" y="457" key="#SQL_Dialects/0.0.2560.1440@0.0.2560.1440" timestamp="1601507117170" />
+    <state x="299" y="52" key="#Servers" timestamp="1601646582251">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="299" y="52" key="#Servers/-2560.-168.2560.1440/0.0.1920.1080@0.0.1920.1080" timestamp="1601646582251" />
+    <state x="399" y="89" key="#Servers/0.0.2560.1440@0.0.2560.1440" timestamp="1601509314944" />
+    <state x="630" y="162" width="1290" height="816" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601657242262">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="630" y="162" width="1290" height="816" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2560.-168.2560.1440/0.0.1920.1080@0.0.1920.1080" timestamp="1601657242262" />
+    <state x="1002" y="216" width="1191" height="983" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1601509372712" />
+    <state x="897" y="312" key="FileChooserDialogImpl" timestamp="1601509423013">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="897" y="312" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1601509423013" />
+    <state x="653" y="162" key="NewPhpClassDialog" timestamp="1601647314029">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="653" y="162" key="NewPhpClassDialog/-2560.-168.2560.1440/0.0.1920.1080@0.0.1920.1080" timestamp="1601647314029" />
+    <state x="781" y="446" key="NewPhpFileDialog" timestamp="1601657355113">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="781" y="446" key="NewPhpFileDialog/-2560.-168.2560.1440/0.0.1920.1080@0.0.1920.1080" timestamp="1601657355113" />
+    <state x="1041" y="594" key="NewPhpFileDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1601390939986" />
+    <state x="329" y="0" width="1591" height="1080" key="SettingsEditor" timestamp="1601650963311">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="329" y="0" width="1591" height="1080" key="SettingsEditor/-2560.-168.2560.1440/0.0.1920.1080@0.0.1920.1080" timestamp="1601650963311" />
+    <state x="481" y="118" width="1591" height="1233" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1601511936637" />
+    <state x="1109" y="496" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1601508878653">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1109" y="496" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.2560.1440@0.0.2560.1440" timestamp="1601508878653" />
+    <state x="689" y="-2" width="1177" height="1976" key="search.everywhere.popup" timestamp="1601390986069">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="689" y="-2" width="1177" height="1976" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1601390986069" />
+  </component>
+</project>
