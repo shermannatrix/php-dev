@@ -10,4 +10,8 @@
 		}
 	}
 	
+	echo "With two arguments:\n";
+	takesTwo(1, 2);
 	
+	echo "With one argument:\n";
+	takesTwo(1);

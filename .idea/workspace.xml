@@ -23,44 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d5a0661-3ee8-442c-8a91-f0986fb313c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php-dev.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/verify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog_php/ch01/button.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog_php/ch01/fonts/Dalgona.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog_php/ch01/graphic_example.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog_php/ch02/Person.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog_php/ch02/array_basics.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog_php/ch02/assignments.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog_php/ch02/casting_array.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog_php/ch02/for_loop.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog_php/ch02/func_params.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog_php/ch02/global_vars.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog_php/ch02/globals_array.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog_php/ch02/statements.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog_php/ch02/static_vars.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog_php/ch02/try_catch.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog_php/ch02/while_loop.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog_php/ch03/arg_counter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog_php/ch03/doubler_func.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog_php/ch03/inner_func.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog_php/ch03/missing_params.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog_php/ch03/param_ref.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog_php/ch03/strcat_func.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpledb/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpledb/header-for-template.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpledb/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpledb/info-col.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpledb/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpledb/mysqli_connect.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpledb/nav.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpledb/process-register-page.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpledb/register-page.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpledb/template.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch03/ret_val_ref.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch03/type_hinting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch03/usort_anonymous_func.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog_php/ch03/missing_params.php" beforeDir="false" afterPath="$PROJECT_DIR$/prog_php/ch03/missing_params.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +58,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DatabaseDriversLRU" value="mysql&#10;sqlite" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/prog_php/ch01/fonts" />
@@ -112,7 +79,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Run current File" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Localhost" start_url="/php-dev/prog_php/ch03/arg_counter.php">
+    <configuration name="Run current File" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Localhost" start_url="/php-dev/prog_php/ch03/usort_anonymous_func.php">
       <method v="2" />
     </configuration>
     <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Localhost" start_url="/php-dev/prog_php/ch02/">
@@ -133,6 +100,7 @@
       <workItem from="1601509445596" duration="3120000" />
       <workItem from="1601643166241" duration="1883000" />
       <workItem from="1601645913596" duration="8529000" />
+      <workItem from="1601838023591" duration="2706000" />
     </task>
     <servers />
   </component>
@@ -172,10 +140,11 @@
     </state>
     <state x="299" y="52" key="#Servers/-2560.-168.2560.1440/0.0.1920.1080@0.0.1920.1080" timestamp="1601646582251" />
     <state x="399" y="89" key="#Servers/0.0.2560.1440@0.0.2560.1440" timestamp="1601509314944" />
-    <state x="630" y="162" width="1290" height="816" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601657242262">
+    <state x="630" y="162" width="1107" height="782" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601844862486">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="630" y="162" width="1290" height="816" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2560.-168.2560.1440/0.0.1920.1080@0.0.1920.1080" timestamp="1601657242262" />
+    <state x="630" y="162" width="1107" height="782" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601844862486" />
     <state x="1002" y="216" width="1191" height="983" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1601509372712" />
     <state x="897" y="312" key="FileChooserDialogImpl" timestamp="1601509423013">
       <screen x="0" y="0" width="2560" height="1440" />
@@ -185,10 +154,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="653" y="162" key="NewPhpClassDialog/-2560.-168.2560.1440/0.0.1920.1080@0.0.1920.1080" timestamp="1601647314029" />
-    <state x="781" y="446" key="NewPhpFileDialog" timestamp="1601657355113">
+    <state x="781" y="446" key="NewPhpFileDialog" timestamp="1601839300748">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="781" y="446" key="NewPhpFileDialog/-2560.-168.2560.1440/0.0.1920.1080@0.0.1920.1080" timestamp="1601657355113" />
+    <state x="781" y="446" key="NewPhpFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601839300748" />
     <state x="1041" y="594" key="NewPhpFileDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1601390939986" />
     <state x="329" y="0" width="1591" height="1080" key="SettingsEditor" timestamp="1601650963311">
       <screen x="0" y="0" width="1920" height="1080" />
