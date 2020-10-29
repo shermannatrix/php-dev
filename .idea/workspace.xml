@@ -23,11 +23,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d5a0661-3ee8-442c-8a91-f0986fb313c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/prog_php/ch03/ret_val_ref.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog_php/ch03/type_hinting.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog_php/ch03/usort_anonymous_func.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/after_first_occurrence.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/approx_equality.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/basic_trimming.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/changing_caps.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/comparison_op.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/double_quoted_strings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/encode_query_string.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/exact_comparison02.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/explode_ex.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/heredoc_indentation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/implode_ex.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/last_occurrence.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/multilinestrings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/negative_lookbehind.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/parseurl_ex.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/print_formating.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/printr_class.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/printr_ex.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/raw_url_encode_ex.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/regex01.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/regex02.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/regex_case_insensitive.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/regex_e_modifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/regex_match_var.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/regex_multi_subs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/regex_replace01.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/regex_replace02.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/similar_text.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/single_quoted_strings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/slashes_ex.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/strcasecmp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/strcmp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/string_decompose01.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/string_decompose02.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/string_encoding.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/string_length.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/string_padding01.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/string_padding02.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/string_padding03.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/string_reverse.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/string_tokens.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/strip_html_tags.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/substring_replace.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/substrings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog_php/ch04/vardump_ex.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero_config_debug.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prog_php/ch03/missing_params.php" beforeDir="false" afterPath="$PROJECT_DIR$/prog_php/ch03/missing_params.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +90,8 @@
       <server host="localhost" id="bd9c930f-5172-49ac-9293-0f85826fa83e" name="Localhost" />
     </servers>
   </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="C:\inetpub\wwwroot\php-dev" selected_validation_type="LOCAL" web_path_to_validation_script="http://localhost/php-dev/" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1iAWQD5YUuul78M6VC6aJhTdOxU" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -61,17 +106,20 @@
     <property name="DatabaseDriversLRU" value="mysql&#10;sqlite" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/prog_php/ch01/fonts" />
+    <property name="last_opened_file_path" value="D:/Frameworks_Utilities/php-7.4.11/ext/php_xdebug3.dll" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="settings.php.frameworks" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\inetpub\wwwroot\php-dev" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\inetpub\wwwroot\php-dev\prog_php\ch01\fonts" />
       <recent name="C:\inetpub\wwwroot\php-dev\prog_php\ch01" />
@@ -79,7 +127,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Run current File" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Localhost" start_url="/php-dev/prog_php/ch03/usort_anonymous_func.php">
+    <configuration name="Run current File" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Localhost" start_url="/php-dev/prog_php/ch04/regex_replace01.php">
       <method v="2" />
     </configuration>
     <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Localhost" start_url="/php-dev/prog_php/ch02/">
@@ -100,7 +148,15 @@
       <workItem from="1601509445596" duration="3120000" />
       <workItem from="1601643166241" duration="1883000" />
       <workItem from="1601645913596" duration="8529000" />
-      <workItem from="1601838023591" duration="2706000" />
+      <workItem from="1601838023591" duration="3299000" />
+      <workItem from="1602371191821" duration="602000" />
+      <workItem from="1603156946622" duration="1580000" />
+      <workItem from="1603158923793" duration="2375000" />
+      <workItem from="1603161808282" duration="786000" />
+      <workItem from="1603162613965" duration="3911000" />
+      <workItem from="1603374470024" duration="48000" />
+      <workItem from="1603374526065" duration="5000" />
+      <workItem from="1603981640548" duration="9043000" />
     </task>
     <servers />
   </component>
@@ -123,47 +179,107 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="547" y="137" key="#CLI_Interpreters" timestamp="1601509074208">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state x="410" y="12" key="#CLI_Interpreters" timestamp="1603163502577">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="410" y="12" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1603163502577" />
     <state x="547" y="137" key="#CLI_Interpreters/0.0.2560.1440@0.0.2560.1440" timestamp="1601509074208" />
-    <state x="816" y="0" width="1536" height="1308" key="#PHP" timestamp="1601353785526">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state x="612" y="0" width="1536" height="1308" key="#PHP" timestamp="1603163086896">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="612" y="0" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1603163086896" />
     <state x="816" y="0" width="1536" height="1308" key="#PHP/0.0.2560.1440@0.0.2560.1440" timestamp="1601353785526" />
     <state x="239" y="457" key="#SQL_Dialects" timestamp="1601507117170">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="239" y="457" key="#SQL_Dialects/0.0.2560.1440@0.0.2560.1440" timestamp="1601507117170" />
-    <state x="299" y="52" key="#Servers" timestamp="1601646582251">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="299" y="12" key="#Servers" timestamp="1603163561138">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="299" y="52" key="#Servers/-2560.-168.2560.1440/0.0.1920.1080@0.0.1920.1080" timestamp="1601646582251" />
+    <state x="299" y="12" key="#Servers/0.0.1920.1040@0.0.1920.1040" timestamp="1603163561138" />
     <state x="399" y="89" key="#Servers/0.0.2560.1440@0.0.2560.1440" timestamp="1601509314944" />
-    <state x="630" y="162" width="1107" height="782" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601844862486">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="266" y="0" width="1107" height="1040" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604012023405">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="630" y="162" width="1290" height="816" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2560.-168.2560.1440/0.0.1920.1080@0.0.1920.1080" timestamp="1601657242262" />
+    <state x="266" y="0" width="1107" height="1040" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604012023405" />
     <state x="630" y="162" width="1107" height="782" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601844862486" />
     <state x="1002" y="216" width="1191" height="983" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1601509372712" />
-    <state x="897" y="312" key="FileChooserDialogImpl" timestamp="1601509423013">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state x="760" y="287" width="847" height="634" key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#" timestamp="1603163798172">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="760" y="287" width="847" height="634" key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#/0.0.1920.1040@0.0.1920.1040" timestamp="1603163798172" />
+    <state x="55" y="152" key="FileChooserDialogImpl" timestamp="1603163495976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="55" y="152" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603163495976" />
     <state x="897" y="312" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1601509423013" />
-    <state x="653" y="162" key="NewPhpClassDialog" timestamp="1601647314029">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1859" height="301" key="GridCell.Tab.0.bottom" timestamp="1603168844047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1859" height="301" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603168844047" />
+    <state width="1859" height="301" key="GridCell.Tab.0.center" timestamp="1603168844047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1859" height="301" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603168844047" />
+    <state width="1859" height="301" key="GridCell.Tab.0.left" timestamp="1603168844047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1859" height="301" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603168844047" />
+    <state width="1859" height="301" key="GridCell.Tab.0.right" timestamp="1603168844047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1859" height="301" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603168844047" />
+    <state width="1859" height="301" key="GridCell.Tab.1.bottom" timestamp="1603168844047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1859" height="301" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603168844047" />
+    <state width="1859" height="301" key="GridCell.Tab.1.center" timestamp="1603168844047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1859" height="301" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603168844047" />
+    <state width="1859" height="301" key="GridCell.Tab.1.left" timestamp="1603168844047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1859" height="301" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603168844047" />
+    <state width="1859" height="301" key="GridCell.Tab.1.right" timestamp="1603168844047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1859" height="301" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603168844047" />
+    <state width="1859" height="301" key="GridCell.Tab.2.bottom" timestamp="1603168844048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1859" height="301" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603168844048" />
+    <state width="1859" height="301" key="GridCell.Tab.2.center" timestamp="1603168844048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1859" height="301" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603168844048" />
+    <state width="1859" height="301" key="GridCell.Tab.2.left" timestamp="1603168844047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1859" height="301" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603168844047" />
+    <state width="1859" height="301" key="GridCell.Tab.2.right" timestamp="1603168844048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1859" height="301" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603168844048" />
+    <state x="653" y="156" key="NewPhpClassDialog" timestamp="1604011270918">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="653" y="162" key="NewPhpClassDialog/-2560.-168.2560.1440/0.0.1920.1080@0.0.1920.1080" timestamp="1601647314029" />
-    <state x="781" y="446" key="NewPhpFileDialog" timestamp="1601839300748">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="653" y="156" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604011270918" />
+    <state x="781" y="429" key="NewPhpFileDialog" timestamp="1604012443044">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="781" y="446" key="NewPhpFileDialog/-2560.-168.2560.1440/0.0.1920.1080@0.0.1920.1080" timestamp="1601657355113" />
+    <state x="781" y="429" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604012443044" />
     <state x="781" y="446" key="NewPhpFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601839300748" />
     <state x="1041" y="594" key="NewPhpFileDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1601390939986" />
-    <state x="329" y="0" width="1591" height="1080" key="SettingsEditor" timestamp="1601650963311">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="329" y="0" width="1591" height="1080" key="SettingsEditor" timestamp="1603986955439">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="329" y="0" width="1591" height="1080" key="SettingsEditor/-2560.-168.2560.1440/0.0.1920.1080@0.0.1920.1080" timestamp="1601650963311" />
+    <state x="329" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603986955439" />
     <state x="481" y="118" width="1591" height="1233" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1601511936637" />
     <state x="1109" y="496" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1601508878653">
       <screen x="0" y="0" width="2560" height="1440" />
@@ -173,5 +289,20 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="689" y="-2" width="1177" height="1976" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1601390986069" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/prog_php/ch04/heredoc_indentation.php</url>
+          <line>2</line>
+          <properties>
+            <option name="className" value="" />
+            <option name="methodName" value="\sayIt" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
